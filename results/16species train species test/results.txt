@@ -1,0 +1,31 @@
+Support Vector Machine starting ...
+2.070890 seconds
+CNN-SVM Accuracy: 20.9%
+Extra Trees Classifier starting ...
+0.112275 seconds
+CNN-ET Accuracy: 12.3%
+Random Forest Classifier starting ...
+0.168015 seconds
+CNN-RF Accuracy: 23.5%
+K-Nearest Neighbours Classifier starting ...
+0.217783 seconds
+CNN-KNN Accuracy: 24.6%
+Multi-layer Perceptron Classifier starting ...
+/home/mars1198/anaconda3/lib/python3.7/site-packages/sklearn/neural_network/multilayer_perceptron.py:566: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  % self.max_iter, ConvergenceWarning)
+3.754030 seconds
+CNN-MLP Accuracy: 20.3%
+Gaussian Naive Bayes Classifier starting ...
+0.044582 seconds
+CNN-GNB Accuracy: 23.0%
+Linear Discriminant Analysis Classifier starting ...
+/home/mars1198/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:388: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+0.336142 seconds
+CNN-LDA Accuracy: 7.0%
+Quadratic Discriminant Analysis Classifier starting ...
+/home/mars1198/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:693: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+0.114882 seconds
+CNN-QDA Accuracy: 11.2%
+
